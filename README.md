@@ -1,4 +1,4 @@
-# Basic Crackme
+# Easy Crackme
 
 ## Explication
 Le programme va juste prendre l'argument qu'on lui donne pour par la suite voir pour chaque lettre si celle-ci est d'ordre pair ou impaire dans le mot que nous avons rentré, si celle-ci est paire elle va être incrémentée, si elle est impaire elle sera decrémentée.
