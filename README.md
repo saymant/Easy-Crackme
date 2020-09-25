@@ -10,8 +10,8 @@ string  = "ymu]p]a]jcgiercb2{"
 
 flag = []
 
-for i in range(len(l)):
-    flag.append(ord(l[i]) ^ 3)
+for i in range(len(string)):
+    flag.append(ord(string[i]) ^ 3)
 
     if (i % 2) == 1:
         flag[i] += 1
