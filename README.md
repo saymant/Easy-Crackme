@@ -20,4 +20,5 @@ for i in range(len(string)):
 
     flag[i] = chr(f[i])
 
-print("flag : ".join(flag))```
+print("flag : ".join(flag))
+```
